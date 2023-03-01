@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(245, 245, 208);
+    margin-left:3vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius:6vw;
+    width:80%;
+    
+}
+.hi{
+    font-size:1.6vw;
+}
+h1{
+    margin-top:4vw;
+    color:rgb(74, 86, 74);
+}
+hr{
+    border-top-style:none;
+    border-width:1%;
+    border-color:gray;
+}
+.hey{
+    font-size:1.6vw;
+    
+}
+.edu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+

@@ -1,0 +1,29 @@
+ body{
+    background-color: rgb(245, 245, 208);
+}
+h2{
+    color:rgb(26, 69, 26);
+}
+ .proj{
+    justify-content: space-between;
+    float:left;
+}
+.proj img{
+    width:40%;
+    justify-content: space-between;
+    margin-left:3vw;
+}
+.proj p{
+    color:rgb(56, 68, 56);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:3vw;
+}
+.proj h2{
+    margin-left: 11vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1{
+    margin-left:1vw;
+    color:rgb(50, 69, 50);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
